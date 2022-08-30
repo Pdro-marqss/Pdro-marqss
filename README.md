@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Pdro-marqss/Pdro-marqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalhando como front End Developer na BIZSYS
+- 🌱 Estudando Typescript
+- 🧑🏻‍🎓 Formado em Sistemas para Internet na FATEC
+- 📫 Contate-me no email: pedro_marquess@hotmail.com
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://github.com/Pdro-marqss">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pdro-marqss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-HTML" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Js" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Pedro-React" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-Ts" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pedro-SC" height="30" target="_blank" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="Pedro-Git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+  
+  ##
+  
+<div> 
+  <a href = "https://pedromarques.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-marques-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
