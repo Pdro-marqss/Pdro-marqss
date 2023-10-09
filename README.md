@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Trabalhando como front End Developer na BIZSYS
-- 🌱 Estudando Typescript
+- 🔭 Front End Developer na BIZSYS
+- 🌱 Estudando Typescript, NextJs e ReactNative
 - 🧑🏻‍🎓 Formado em Sistemas para Internet na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
