@@ -10,7 +10,7 @@
   <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Conhecimentos:
+## Conhecimentos
 <div style="display: inline_block"><br>
 
 <a href = ""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
