@@ -10,6 +10,8 @@
   <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### Conhecimentos:
+
 <div style="display: inline_block"><br>
 
 <a href = ""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -18,6 +20,7 @@
 <a href = ""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 <br>
 <a href = ""><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"></a>
+
 <a href = ""><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank"></a>
 <br>
 <a href = ""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
