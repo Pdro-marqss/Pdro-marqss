@@ -8,6 +8,7 @@
 
 <div align="left">
   <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 
 ## Conhecimentos
