@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 Front End Developer
-- 🌱 Estudando NextJs, ReactNative e Node
-- 🧑🏻‍🎓 Formado em Sistemas para Internet na FATEC
+- 🌱 Estudando NextJs e ReactNative
+- 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
 
