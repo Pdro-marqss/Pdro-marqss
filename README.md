@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Front End Developer
-- 🌱 Estudando NextJs e ReactNative
+- 🔭 Web Front End & iOS Developer
+- 🌱 Estudando Swift e SwiftUI
 - 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
