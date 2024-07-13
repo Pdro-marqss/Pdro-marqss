@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Web Front End & iOS Developer
-- 🌱 Estudando Swift e SwiftUI
+- 🔭 Web Developer
+- 🌱 Atualmente estudando Angular
 - 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
