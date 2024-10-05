@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Web Developer
-- 🌱 Atualmente estudando Angular
+- 🌱 Estudando Angular
 - 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
