@@ -9,7 +9,7 @@
 <div align="left">
 <!--   <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/> -->
 <!--   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=dracula" /> -->
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=dark" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=gotham" />
 <!--   https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact -->
 </div>
 
