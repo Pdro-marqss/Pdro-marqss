@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Analista de Sistemas
-- 🌱 Estudando React e C#/.NET
+- 🔭 Desenvolvedor de Software
+- 🌱 Foco em aprimorar habilidades backend com C#/.NET e design e arquitetura de software
 - 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
 - 📫 Contate-me no email: pedro_marquess@hotmail.com
 <br>
