@@ -3,7 +3,7 @@
 <!-- <img align="right" height="300rem" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" /> -->
 
 <!-- Punch -->
-<img align="right" height="370rem" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cnJmM2p3eXg0OXoyeDE2cWsxazUyczc0dzZzMWU4am1nbmQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kR6ru0UK9KylC2ohQH/giphy.gif" />
+<img align="right" height="350rem" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cnJmM2p3eXg0OXoyeDE2cWsxazUyczc0dzZzMWU4am1nbmQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kR6ru0UK9KylC2ohQH/giphy.gif" />
 
 #### Sobre mim:<br>
 Sou desenvolvedor de software com 4 anos de experiência com aplicações web e sistemas. <b>Atualmente atuo no setor de e-commerce em um dos maiores sites de fotoprodutos do Brasil.</b>
