@@ -1,18 +1,26 @@
-## Hi there 👋
+<div style="width: 100%; height: 500px; display: flex; flex-direction: row-reverse; align-items: center; justify-content: start">
 
-- 🔭 Desenvolvedor de Software
-- 🌱 Foco em aprimorar habilidades backend com C# .NET e design e arquitetura de software
-- 🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
-- 📫 Contate-me no email: pedro_marquess@hotmail.com
-<br>
+<figure style="height: auto; margin-left: 100px">
+    <img style="height: 350px;" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="ralph dos simpsons dando oi">
+  <figcaption><i>Ralph dos simpsons te dando um oi 🙂👋</i></figcaption>
+</figure>
 
-<div align="left">
-<!--   <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&langs_count=7&theme=dracula"/> -->
-<!--   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=dracula" /> -->
-  <!-- <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=gotham&hide=html,css,scss,vue,t" /> -->
-  <img height="135em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t" />
-<!--   https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact -->
+<div style="">
+<h1>Olá :)</h1>
+<p><strong>Um resuminho sobre mim:</strong></p>
+<p>🔭 Desenvolvedor de Software </p>
+<p>🌱 Foco em aprimorar habilidades backend com C# .NET e design e arquitetura de software </p>
+<p>🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC </p>
+<p style="margin-bottom: 30px">📫 Contate-me no email: pedro_marquess@hotmail.com </p>
+
+
+<img height="160rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t,cmake" />
+
 </div>
+
+</div>
+    
+
 
 ## Conhecimentos
 <div style="display: inline_block"><br>
@@ -42,7 +50,8 @@
 
 <br>
 
-
+<!-- Se parar de funcionar só trocar o 123 por 000000 -->
+<a href = ""><img src="https://img.shields.io/badge/Odin-123?style=for-the-badge&logo=odin&logoColor=white" target="_blank"></a> 
 
 
 
