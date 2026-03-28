@@ -1,25 +1,31 @@
-<div style="width: 100%; height: 500px; display: flex; flex-direction: row-reverse; align-items: center; justify-content: start">
+<!-- Punch -->
+<!-- <img align="right" height="380rem" style="margin-top: 90px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cnJmM2p3eXg0OXoyeDE2cWsxazUyczc0dzZzMWU4am1nbmQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kR6ru0UK9KylC2ohQH/giphy.gif" /> -->
 
-<figure style="height: auto; margin-left: 100px">
-    <img style="height: 350px;" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="ralph dos simpsons dando oi">
-  <figcaption><i>Ralph dos simpsons te dando um oi 🙂👋</i></figcaption>
-</figure>
+<img align="right" height="350rem" style="margin-top: 90px; margin-left: 20px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
 
-<div style="">
-<h1>Olá :)</h1>
-<p><strong>Um resuminho sobre mim:</strong></p>
-<p>🔭 Desenvolvedor de Software </p>
-<p>🌱 Foco em aprimorar habilidades backend com C# .NET e design e arquitetura de software </p>
-<p>🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC </p>
-<p style="margin-bottom: 30px">📫 Contate-me no email: pedro_marquess@hotmail.com </p>
+# Olá :) <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk4cWxxOGRzMnVqdG5sdndjbDkyeXUzdGd1ZGdic3M3aWdkcTd0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10fFq51F1Z2mlO/giphy.gif" height="60px">
+
+#### Sobre mim:<br>
+Sou desenvolvedor de software com 4 anos de experiência com aplicações web e sistemas. <b>Atualmente atuo no setor de e-commerce em um dos maiores sites de fotoprodutos do Brasil.</b>
+
+Como hobby, estudo e desenvolvo jogos utilizando linguagens e abordagens low-level, como Odin e C com Raylib.
+
+🔭 Mais tempo de experiencia com Front-end
+
+🧑🏻‍🎓 Formado em Sistemas para Internet e atualmente cursando Jogos Digitais na FATEC
+
+<!-- <img align="right" height="280rem" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxudXoxZmNvejBqMW0wdHJ5aDZzbTR4bHh2d3AxMmJ0dGN0dHlvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OvP0meB8bqd2r155lG/giphy.gif" /> -->
+
+📫 Contate-me no email: pedro_marquess@hotmail.com
+
+🔗 Ou via LinkedIn <a href="https://www.linkedin.com/in/giovana-simas/" style="margin-left:10px;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
+<br/>
+
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t,cmake" />
 
 
-<img height="160rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t,cmake" />
 
-</div>
-
-</div>
-    
 
 
 ## Conhecimentos
@@ -51,7 +57,12 @@
 <br>
 
 <!-- Se parar de funcionar só trocar o 123 por 000000 -->
-<a href = ""><img src="https://img.shields.io/badge/Odin-123?style=for-the-badge&logo=odin&logoColor=white" target="_blank"></a> 
+<a href = ""><img src="https://img.shields.io/badge/Odin-123?style=for-the-badge&logo=odin&logoColor=white" target="_blank"></a>
+<a href = ""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
+<a href = ""><img src="https://img.shields.io/badge/raylib-ffcc00?style=for-the-badge&logo=https://cdn.jsdelivr.net/gh/raysan5/raylib/logo/raylib_512x512.png&logoColor=black"></a>
+ 
+
+
 
 
 
