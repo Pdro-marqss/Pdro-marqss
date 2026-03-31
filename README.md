@@ -18,7 +18,7 @@ Como hobby, estudo e desenvolvo jogos utilizando linguagens e abordagens low-lev
 
 📫 Contate-me no email: pedro_marquess@hotmail.com
 
-🔗 Ou via LinkedIn <a href="https://www.linkedin.com/in/giovana-simas/" style="margin-left:10px;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Ou via LinkedIn <a href="https://www.linkedin.com/in/pedro-marques-silva/" style="margin-left:10px;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 <br/>
 
