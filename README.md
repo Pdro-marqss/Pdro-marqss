@@ -22,7 +22,7 @@ Como hobby, estudo e desenvolvo jogos utilizando linguagens e abordagens low-lev
 
 <br/>
 
-<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t,cmake" />
+<img height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pdro-marqss&layout=compact&theme=macos_dark&hide=html,css,scss,vue,swift,python,t,cmake,cobol" />
 
 
 
