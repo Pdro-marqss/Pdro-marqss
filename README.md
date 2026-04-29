@@ -1,6 +1,6 @@
 # Olá :) <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk4cWxxOGRzMnVqdG5sdndjbDkyeXUzdGd1ZGdic3M3aWdkcTd0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10fFq51F1Z2mlO/giphy.gif" width="50px">
 
-<img align="right" height="300rem" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
+<img align="right" height="220rem" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
 
 <!-- Punch -->
 <!-- <img align="right" height="340rem" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cnJmM2p3eXg0OXoyeDE2cWsxazUyczc0dzZzMWU4am1nbmQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kR6ru0UK9KylC2ohQH/giphy.gif" /> -->
