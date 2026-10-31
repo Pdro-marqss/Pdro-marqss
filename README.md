@@ -22,7 +22,7 @@ Como hobby, estudo e desenvolvo jogos utilizando linguagens e abordagens low-lev
 
 <br/>
 
-<img height="150rem" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=4&theme=transparent&hide=html,css,scss,vue,swift,python,t,cmake,cobol,batchfile" />
+<img height="120rem" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=4&theme=transparent&hide=html,css,scss,vue,swift,python,t,cmake,cobol,batchfile" />
 
 
 
